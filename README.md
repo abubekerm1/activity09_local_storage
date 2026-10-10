@@ -184,7 +184,3 @@ flutter build apk --release
 I did not add an image picker. The app uses an image reference and shows a suit symbol if the image is missing.
 
 I tested my app using an Android emulator.
-
-## Assistance
-
-I used ChatGPT to help with code instructions, debugging, and organizing the assignment. I tested the app myself using the Android emulator.
